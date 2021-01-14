@@ -34,7 +34,7 @@ O Petty é uma aplicação que foi desenvolvido com a ideia de facilitar a local
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo para mais detalhes.
 
 ---
 Esse é um projeto feito durante a NLW3 organizado pela Rocketseat, com o objetivo de estudar as tecnologias ultilzadas nesse app.g
