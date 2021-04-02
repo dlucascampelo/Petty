@@ -22,7 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
